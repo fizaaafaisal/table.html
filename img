@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2> figure tag </h2>
+    <h1 style="text-align: center;">MY FIRST IMAGE</h1>
+    <hr>
+    <img src="images/flwr1.jpg" alt="flower" width="100px" hight="100px" border="4"><br>
+    <img src="images/flwr2.jpg" alt="flower"  width="100px" hight="100px" border="4" align="left"><br>
+   <br><br><hr>
+    <h5><u>FIGURE TAG</u></h5>
+    <figure>
+        <img src="images/flwr1.jpg" alt="flower" width="100px" hight="200px" border="4">
+        <figcaption>FIG:1
+        </figcaption>
+    </figure>
+
+</body>
+</html>
