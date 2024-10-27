@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    h2{
+        font-style:italic;
+        color:blue;
+        font-family: Courier;
+        text-align: center;
+        font-size: xx-large;
+        
+    }
+    p{
+        font-style: oblique;
+    }
+    </style>
+</head>
+<body>
+<h2>hello</h2>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente commodi voluptate iusto recusandae possimus iste distinctio nam, dolor nisi obcaecati vero provident animi illo, nihil quae ullam? Quidem, unde similique.</p>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="extenal.css">
+    <title>Document</title>
+</head>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="extenal.css">
+</head>
+<body>
+    <h5>external css</h5>
+</body>
+</html>
+<body>
+    <h1 style="color: violet;text-align: center;">helloooo</h1>
+</body>
+</html>
+<!--frst priority-->
