@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-image: url(images/cat1.webp);
+            background-repeat:repeat-y;
+            background-attachment: fixed;
+            background-position:center ;
+        }
+        h1{
+                border: dotted;
+                border-color: blueviolet;
+                border-width:5px;
+                border-top:5px;
+        }
+        h2{
+            border:groove;
+            border-top:5px;
+            border-left: 5px;
+        }
+        h3{
+            border:5px dashed blue
+        }
+        h4{
+            border: solid;
+            border-radius: 10px ;
+        }
+        h1{
+            font-size: xx-large;
+            font-style: italic;
+            font-family: cursive;
+            font-weight:bolder;
+            font-variant:small-caps;
+        }
+        h2{
+            text-align: center;
+        }
+        h3{
+            text-align: left;
+        }
+        h4
+        {
+            text-align: right;
+        }
+        h5{
+            vertical-align:baseline;
+        }
+        h5{
+            text-decoration-line:line;
+        }
+       a{
+        display: inline-block;
+        transition: transform 0.1s ease;
+       }
+       a:link{
+        color: blueviolet;
+        text-decoration: none;
+       }
+a:visited{
+    color: blue;
+
+}
+    </style>
+</head>
+<body>
+    <h1><center>fathima fiza faisal</center></h1>
+    <h2>fiza faisal</h2>
+    <h3>fizaa</h3>
+    <h4>fizaaa faisallll</h4>
+    <h5>fathima</h5>
+    <p style="direction: ltr;">your</p>
+    <p style="direction: rtl;">hellooo</p>
+    <a href="inline.html" >inline</a>
+</body>
+</html>
