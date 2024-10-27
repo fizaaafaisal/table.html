@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            background-color: bisque;
+        }
+        span{
+            background-color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h2>,<center>fizza</center></h2>
+        <p>Lorem ipsum dolor sit amet <span>consectetur adipisicing</span> elit. Ex eveniet error dolore consectetur eligendi, non dolores tenetur ad est minima illo aspernatur consequuntur ipsa modi! Cupiditate repellat quos culpa hic?</p>
+    </div>
+</body>
+</html>
