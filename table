@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>table</title>
+    <style>
+    table,th,td{
+        border:2px solid yellow;
+    }
+    </style>
+</head>
+<body>
+    <h2>Fruits Details</h2>
+    <table style="width:100%">
+        <tr>
+            <th>fruit</th>
+            <th>fruit:num</th>
+            <th>price</th>
+        </tr>
+        <tr>
+            <td> <center>mango</center></td>
+            <td><center>5</center></td>
+            <td><center>100</center></td>
+        </tr>
+        <tr>
+            <td><center>apple</center></td>
+            <td><center>3</center></td>
+            <td><center>80</center></td>
+        </tr>
+        <tr>
+            <td><center>banana</center></td>
+            <td><center>2</center></td>
+            <td><center>16</center></td>
+        </tr>
+    </table>
+    <table style="width: 60%;">
+        <h2>colspan</h2>
+        <tr>
+        <th colspan="2">chocolate</th>
+        <th> price</th>
+        </tr>
+        <tr>
+        <td>milkybar</td>
+        <td>munch</td>
+        <td>20</td>
+        </tr>
+        <tr>
+            <td>twix</td>
+            <td>mars</td>
+            <td>30</td>
+        </tr>
+    </table>
+</body>
+</html>
