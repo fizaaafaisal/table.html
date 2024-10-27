@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="position.css">
+</head>
+<body>
+    <h1>position property</h1>
+    <div class="main">
+        <div class="item i1">static</div>
+        <div class="item i2">reletive</div>
+        <div class="item i3" >fixed</div>
+        <div class="item i4">sticky</div>
+        <div class="item i5">boxx
+            <div class="item i6">absolute</div>
+        </div>
+            
+    </div>
+</body>
+</html>
