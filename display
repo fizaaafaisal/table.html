@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="display.css">
+</head>
+<body>
+    <h1>SOFT DRINKS</h1>
+    <div class="who">
+    <div class="oox oxx1">appy fizz</div>
+    <div class="oxx oxx2">maaza mango</div>
+    <div class="oxx oxx3">litchi parle</div>
+    </div>
+    <hr>
+    <div class="how">
+        <div class="box box1">fizz up the celebration</div>
+        <div class="box box2">the real taste of mango </div>
+        <div class="box box3">parle product</div>
+        </div>
+</body>
+</html>
