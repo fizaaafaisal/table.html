@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="zindex.css">
+</head>
+<body>
+   <h1>soft drinks</h1> 
+   <div class="item1">appy fizz</div>
+   <div class="item2">mazza</div>
+   <div class="item3">litchi</div>
+</body>
+</html>
